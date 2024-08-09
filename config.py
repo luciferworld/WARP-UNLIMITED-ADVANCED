@@ -1,10 +1,10 @@
 ENV = False # or True
 INTERACTIVE_MODE = False # or True
-WARP_CLIENT_ID = ""
-SEND_LOG = False # or True
+WARP_CLIENT_ID = "2fY746CF-j2106oSN-7eF08Z1S"
+SEND_LOG = True # or True
 HIDE_WC_ID = True # or False
-TELEGRAM_BOT_TOKEN = ""
-CHAT_ID = ""
+TELEGRAM_BOT_TOKEN = "6801524857:AAG24h06pIjcLuvwU7w_HeL-CSzmUIVng0A"
+CHAT_ID = "-1001805072460"
 LOG_FILE = "runtime-log.txt" # rename if required
 
 # Defaults
